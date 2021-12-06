@@ -98,10 +98,19 @@ Open the excecution log and scan the QR code that is called phone1 on your Wireg
 
 **Phone before VPN Activation**
 ![Phone Before VPN](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/20211206_174638000_iOS.png)
-
+Once you have Turned on your tunnel and connected the VPN you should have a different IPV4 Address than before.
 **Phone after VPN Activation**
 ![Phone After VPN](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/20211206_174653000_iOS.png)
 
+## Connect your Laptop to Wireguard
+1. Navigate to `~/wireguard/config/peer_pc1`
+2. Copy the contents of the config file on your host OS 
+~~~
+# cat peer_pc1.conf 
+~~~
+3. On your local machine, create a file paste in the contents and name it pc1.conf. Go into wireguard and add a tunnel using this configuration file and activate the tunnel. 
+
+Your IPV4 Adress should have changed. 
 **Laptop VPN Proof**
 ![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/laptop%20vpn%20proof%20.png)
 
