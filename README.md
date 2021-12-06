@@ -104,3 +104,6 @@ Open the excecution log and scan the QR code that is called phone1 on your Wireg
 
 **Laptop VPN Proof**
 ![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/laptop%20vpn%20proof%20.png)
+
+**Laptop Active Tunnel Proof**
+![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/wireguard%20active%20tunnel.png)
