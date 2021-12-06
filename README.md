@@ -98,5 +98,9 @@ Open the excecution log and scan the QR code that is called phone1 on your Wireg
 
 **Phone before VPN Activation**
 ![Phone Before VPN](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/20211206_174638000_iOS.png)
+
+**Phone after VPN Activation**
 ![Phone After VPN](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/20211206_174653000_iOS.png)
+
+**Laptop VPN Proof**
 ![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/laptop%20vpn%20proof%20.png)
