@@ -94,6 +94,9 @@ docker-compose up -d
 ~~~
 ## Connect your phone to Wireguard 
 
+The Wireguard phone application can be found here: 
+https://apps.apple.com/us/app/wireguard/id1441195209
+
 Open the excecution log and scan the QR code that is called phone1 on your Wireguard VPN connection settings.
 
 **Phone before VPN Activation**
@@ -105,6 +108,10 @@ Once you have Turned on your tunnel and connected the VPN you should have a diff
 ![Phone After VPN](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/20211206_174653000_iOS.png)
 
 ## Connect your Laptop to Wireguard
+
+Wireguard can be installed on your laptop from this link: 
+https://www.wireguard.com/install/
+
 1. Navigate to `~/wireguard/config/peer_pc1`
 2. Copy the contents of the config file on your host OS 
 ~~~
