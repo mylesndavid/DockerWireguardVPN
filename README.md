@@ -114,7 +114,4 @@ Once you have Turned on your tunnel and connected the VPN you should have a diff
 
 Your IPV4 Adress should have changed. 
 **Laptop VPN Proof**
-![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/laptop%20vpn%20proof%20.png)
-
-**Laptop Active Tunnel Proof**
-![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/wireguard%20active%20tunnel.png)
+![Laptop VPN Proof](https://github.com/mylesndavid/DockerWireguardVPN/blob/main/laptopproof2.png)
